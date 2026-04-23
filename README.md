@@ -12,6 +12,7 @@ IMPORTANT DISCLAIMERS
 - Always run in DRY_RUN=True mode first to validate logic.
 - Past backtested results do NOT guarantee future profits.
 - Read Kalshi's Developer Agreement before using their API commercially.
+  
 HOW IT WORKS
 ------------
 Every 15 minutes, Kalshi opens a new BTC Up/Down market:
